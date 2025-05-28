@@ -6,7 +6,7 @@
 
 ## [Отчет.pdf](./Vafeen_3_61_report.pdf)
 
-## [Прпзентация.pdf](./Vafeen_3_61_presentation.pdf)
+## [Презентация.pdf](./Vafeen_3_61_presentation.pdf)
 
 ## Demo 
 
